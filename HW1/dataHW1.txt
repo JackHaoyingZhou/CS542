@@ -1,0 +1,116 @@
+## R- Rock, P- Paper, S- Scissor
+input                 oppsite
+R                      R        (fixed tie)
+
+S                      P        (beat R)
+R                      S        (beat P)
+R                      S        (lose R)
+S                      P        (beat R)
+R                      R        (should beat R/ recognize as beat P)
+S                      P        
+R                      P
+R                      R
+S                      R
+R                      R
+S                      S
+S                      S
+R                      R
+S                      S
+R                      S
+
+S                      R
+R                      P
+R                      R
+S                      R
+R                      R
+S                      S
+R                      P
+R                      R
+S                      P
+R                      S
+S                      S
+S                      S
+R                      S
+S                      R
+R                      S
+
+S                      R
+R                      P
+R                      S
+S                      S
+R                      S
+S                      S
+R                      P
+R                      R
+S                      R
+R                      R
+S                      P
+S                      P
+R                      P
+S                      S
+R                      S
+
+S                      S
+R                      P
+R                      P
+S                      R
+R                      R
+S                      P
+R                      S
+R                      R
+S                      R
+R                      P
+S                      S
+S                      P
+R                      S
+S                      R
+R                      R
+
+S                      S
+R                      P
+R                      R
+S                      S
+R                      P
+S                      S
+R                      S 
+R                      S
+S                      P
+R                      R
+S                      S
+S                      P
+R                      S
+S                      S
+R                      S
+
+S                      R
+R                      P
+R                      R
+S                      P
+R                      P
+S                      S
+R                      P
+R                      R
+S                      P
+R                      S
+S                      S
+S                      S
+R                      S
+S                      R
+R                      S
+
+S                      R
+R                      P
+R                      P
+S                      R
+R                      R
+S                      P
+R                      S
+R                      R
+S                      R
+R                      P
+S                      S
+R                      P
+R                      R
+S                      P
+R                      S
+R
